@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" /><img alt="Sparsh Singh, Jaipur, India. Java developer focused on backend development with Spring Boot. A cat sits on a now.txt window: building Java applications, using Spring Boot, learning backend design, studying final-year CSE." src="assets/hero-light.svg" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" /><img alt="Sparsh, Jaipur, India. Java developer focused on backend development with Spring Boot. A cat sits on a now.txt window: building Java applications, using Spring Boot, learning backend design, studying final-year CSE." src="assets/hero-light.svg" width="100%" /></picture>
 
 <!-- Buttons in order: LinkedIn, Portfolio, Résumé PDF, GitHub, Email -->
 <!-- Note: LinkedIn, Résumé PDF, and Email buttons will be displayed once their URLs are provided -->
